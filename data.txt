@@ -1,0 +1,6 @@
+Large Language Models (LLMs) are powerful neural networks trained on massive datasets.
+Retrieval Augmented Generation (RAG) combines retrieval systems with generative models.
+RAG reduces hallucination by grounding responses in external documents.
+Chunking is the process of splitting documents into smaller pieces.
+Cosine similarity measures similarity between two vectors.
+Vector databases like FAISS are used in production RAG systems.
