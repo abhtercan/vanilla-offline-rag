@@ -19,7 +19,7 @@ RAG Pipeline: Generate an augmented prompt for context-aware answering.
 
 Offline Demo: Interactively ask questions against a local text document.
 
-# HOW IT WORKS
+## HOW IT WORKS
 
 Clean & Tokenize – Converts raw text to lowercase and removes punctuation.
 
@@ -32,3 +32,7 @@ Compute Similarity – Cosine similarity scores are computed between the query a
 Retrieve Top Chunks – Returns the most relevant chunks based on similarity.
 
 Generate Augmented Prompt – Combines retrieved chunks with the query for a context-aware prompt.
+
+## References
+
+Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks – Patrick Lewis et al., 2020.
